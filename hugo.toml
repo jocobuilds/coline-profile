@@ -1,9 +1,0 @@
-baseURL = 'https://joachim.coline.be/'
-languageCode = 'fr-be'
-title = 'Joachim Coline'
-theme = 'hugo-profile'
-
-# GitHub Actions
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
