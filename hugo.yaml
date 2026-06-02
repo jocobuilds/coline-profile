@@ -126,6 +126,15 @@ languages:
             date: "2014 - 2015"
             content: |-
               Une année de lycée aux États-Unis dans le cadre d'un programme d'échange.
+
+      achievements:
+        enable: true
+        items:
+          - title: Prix AIM de la meilleure thèse de master en ingénieur électricien, promotion 2020
+            content: L'AIM a créé plusieurs prix afin d'encourager la recherche scientifique et de promouvoir les travaux originaux. Chaque année, l'AIM récompense les meilleurs mémoires de master rédigés par les diplômés de l'Institut Montefiore (Université de Liège, Belgique).
+          - title: Prix du meilleur pitch au Hackathon EVS 2026
+            content: Décerné pour la meilleure présentation d'une idée de projet lors du Hackathon EVS 2026, un événement interne où les équipes s'affrontent pour développer des solutions innovantes dans un délai limité.
+      
       projects:
         title: "Projets"
         enable: true
@@ -379,7 +388,15 @@ params:
         date: "2014 - 2015"
         content: |-
           One year of high school in the United States as part of an exchange program.
-  # projects
+  
+  achievements:
+    enable: true
+    items:
+      - title: AIM Award for the best MSc thesis in Electrical Engineering, class of 2020
+        content: AIM has created a number of awards in order to encourage scientific research and to promote original work. Every year, AIM awards the best master theses from graduates of the Montefiore Institute (University of Liège, Belgium).
+      - title: Best Pitch Award at EVS Hackathon 2026
+        content: Awarded for the best presentation of a project idea during the EVS Hackathon 2026, an internal event where teams compete to develop innovative solutions in a limited time frame.
+  
   projects:
     title: "Featured Projects"
     enable: true
