@@ -46,7 +46,7 @@ languages:
           Je me nourris des défis posés par l'évolution des technologies, en transformant des problèmes techniques abstraits en solutions pratiques et orientées utilisateur.
           Que je conçoive une interface graphique ou que je branche un système électrique, mon objectif reste le même: l'excellence technique, avec une touche humaine.
 
-          Je travaille actuellement en tant qu'ingénieur en développement logiciel chez [EVS Broadcast Equipment](https://evs.com/eu), où je développe et assure la maintenance de logiciels destinés aux productions vidéo en direct.
+          Je travaille actuellement en tant qu'ingénieur en développement logiciel chez [EVS](https://evs.com/eu), où je développe et assure la maintenance de logiciels destinés aux productions vidéo en direct.
         skills:
           title: "Mes domaines d'expertise incluent:"
           items:
@@ -61,7 +61,7 @@ languages:
       experience:
         enable: true
         items:
-          - company: "EVS Broadcast Equipment"
+          - company: "EVS"
             companyUrl: "https://evs.com/eu"
             jobs:
               - name: "Ingénieur en développement logiciel"
@@ -304,7 +304,7 @@ params:
       With a degree in electrical engineering and a career built in software, I am a lifelong student of how things work. I thrive on the challenge of evolving technologies, consistently transforming abstract technical problems into elegant, user-friendly solutions.
       Whether I’m designing a user interface or powering an electrical system, my goal remains the same: engineering excellence, with a human touch.
 
-      I am currently working as a Software Engineer at [EVS Broadcast Equipment](https://evs.com/eu) where I develop and maintain software for live video productions.
+      I am currently working as a Software Engineer at [EVS](https://evs.com/eu) where I develop and maintain software for live video productions.
     skills:
       enable: true
       title: "My areas of expertise include:"
@@ -322,7 +322,7 @@ params:
   experience:
     enable: true
     items:
-      - company: "EVS Broadcast Equipment"
+      - company: "EVS"
         companyUrl: "https://evs.com/eu"
         jobs:
           - name: "Software Engineer"
