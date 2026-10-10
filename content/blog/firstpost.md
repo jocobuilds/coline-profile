@@ -20,7 +20,9 @@ I will be using the blog section to write about things I’m learning, building,
 - robotics and embedded systems,
 - tools and workflows,
 - experiments and side projects,
-- thoughts worth keeping.
+- thoughts worth keeping,
+- hobbies,
+- ?
 
 I also wanted a place that feels more permanent than social media: somewhere I can document progress over time, instead of posting isolated updates.
 

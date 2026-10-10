@@ -20,7 +20,9 @@ J'utiliserai la section blog pour écrire sur ce que j'apprends, construis, cass
 - la robotique et les systèmes embarqués,
 - les outils et méthodes de travail,
 - les expériences et les projets parallèles,
-- les réflexions qui méritent d’être conservées.
+- les réflexions qui méritent d’être conservées,
+- mes hobbies,
+- ?
 
 Je voulais également un espace qui semble plus permanent que les réseaux sociaux: un endroit où je peux documenter mes progrès au fil du temps, plutôt que de publier des mises à jour isolées.
 
