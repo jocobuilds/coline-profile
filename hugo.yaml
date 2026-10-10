@@ -135,7 +135,7 @@ languages:
           - title: 🏆 Prix du meilleur pitch au EVS Hackathon 2026
             content: Décerné pour la meilleure présentation d'une idée de projet lors du EVS Hackathon 2026, un événement interne où les équipes s'affrontent pour développer des solutions innovantes dans un délai limité.
           - title: 🛹 J'ai rentré un kickflip
-            content: Le 10 septembre 2026, j'ai réussi mon premier kickflip en skateboard. Il aura fallu quelques centaines d'essais, des genoux égratignés et une crise existentielle, mais la planche a enfin coopéré.
+            content: Le 10 septembre 2026, j'ai réussi mon premier kickflip en skateboard. Il aura fallu quelques centaines d'essais, des genoux égratignés et une crise existentielle, mais la planche a enfin coopéré. Je trace ma progression [ici](/fr/blog/tricks-track/).
       
       projects:
         title: "Projets"
@@ -399,7 +399,7 @@ params:
       - title: 🏆 Best Pitch Award at EVS Hackathon 2026
         content: Awarded for the best presentation of a project idea during the EVS Hackathon 2026, an internal event where teams compete to develop innovative solutions in a limited time frame.
       - title: 🛹 Landed a kickflip
-        content: On September 10th, 2026, I nailed my first kickflip on a skateboard. It took a few hundred attempts, some scraped knees, and one existential crisis, but the board finally cooperated.
+        content: On September 10th, 2026, I nailed my first kickflip on a skateboard. It took a few hundred attempts, some scraped knees, and one existential crisis, but the board finally cooperated. Check out my progress [here](/blog/tricks-track/).
   
   projects:
     title: "Featured Projects"
