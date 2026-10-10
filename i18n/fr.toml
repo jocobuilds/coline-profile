@@ -1,0 +1,11 @@
+[trick]
+other = "Trick"
+
+[tried]
+other = "Tenté"
+
+[landed]
+other = "Réussi"
+
+[confidence]
+other = "Confiance"
