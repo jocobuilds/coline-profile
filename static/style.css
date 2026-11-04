@@ -1,0 +1,41 @@
+/* Code-block syntax highlighting for blog posts.
+   Hugo is configured with markup.highlight.noClasses = false (hugo.yaml),
+   so code tokens render as chroma CSS classes instead of inline colors —
+   this palette recolors them per theme. Loaded on every page via
+   params.customCSS = true (see baseof.html). Block background and base
+    text color already come from single.css (background: --secondary-color,
+    text: --text-secondary-color). */
+
+:root {
+  --cb-fg:      #24292e;
+  --cb-comment: #57606a;
+  --cb-keyword: #cf222e;
+  --cb-const:   #953800;
+  --cb-string:  #0a3069;
+  --cb-number:  #0550ae;
+  --cb-func:    #8250df;
+  --cb-type:    #116329;
+}
+
+.dark {
+  --cb-fg:      #c9d1d9;
+  --cb-comment: #8b949e;
+  --cb-keyword: #ff7b72;
+  --cb-const:   #79c0ff;
+  --cb-string:  #a5d6ff;
+  --cb-number:  #79c0ff;
+  --cb-func:    #d2a8ff;
+  --cb-type:    #7ee787;
+}
+
+pre.chroma .c, pre.chroma .c1, pre.chroma .cm, pre.chroma .cp, pre.chroma .cs { color: var(--cb-comment); }
+pre.chroma .k, pre.chroma .kd, pre.chroma .kr, pre.chroma .kp, pre.chroma .ow { color: var(--cb-keyword); }
+pre.chroma .kc, pre.chroma .kt { color: var(--cb-const); }
+pre.chroma .s, pre.chroma .s1, pre.chroma .s2, pre.chroma .sb, pre.chroma .sc, pre.chroma .sd, pre.chroma .se, pre.chroma .sh, pre.chroma .si, pre.chroma .sr, pre.chroma .ss, pre.chroma .sx, pre.chroma .sa { color: var(--cb-string); }
+pre.chroma .m, pre.chroma .mi, pre.chroma .mo, pre.chroma .il { color: var(--cb-number); }
+pre.chroma .nf, pre.chroma .fm, pre.chroma .bp { color: var(--cb-func); }
+pre.chroma .nc, pre.chroma .nn, pre.chroma .no, pre.chroma .nt { color: var(--cb-type); }
+pre.chroma .nv, pre.chroma .na, pre.chroma .nd, pre.chroma .vi, pre.chroma .vl, pre.chroma .vp, pre.chroma .nx, pre.chroma .vc, pre.chroma .vg { color: var(--cb-fg); }
+pre.chroma .nb, pre.chroma .ne, pre.chroma .ni { color: var(--cb-number); }
+pre.chroma .o, pre.chroma .p { color: var(--cb-fg); }
+pre.chroma .err { color: var(--cb-keyword); text-decoration: underline; }
