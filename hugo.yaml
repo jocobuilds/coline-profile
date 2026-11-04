@@ -372,7 +372,7 @@ params:
 
       - title: "Erasmus Program • Mathematics and Computer Science"
         school:
-          name: "Eindhoven University of Technology, Netherlands"
+          name: "Eindhoven University of Technology, The Netherlands"
           url: "https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science"
         date: "2019 - 2020"
         content: |-
@@ -403,7 +403,7 @@ params:
       - title: 🛹 Landed a kickflip
         content: On September 10th, 2026, I nailed my first kickflip on a skateboard. It took a few hundred attempts, some scraped knees, and one existential crisis, but the board finally cooperated. Check out my progress [here](/blog/tricks-track/).
       - title: 🔢 Discovered a new prime number
-        content: Through a bit of GPU time on my machine dedicated to [PrimeGrid](https://www.primegrid.com/)'s GFN-16 project, I have become the proud discoverer of \\[622700670^{65536}+1\\] which joins the hall of fame of the largest known primes. It has 576,342 decimals.
+        content: Through a bit of GPU time on my machine dedicated to [PrimeGrid](https://www.primegrid.com/)'s GFN-16 project, I have become the proud discoverer of \\[622700670^{65536}+1\\] which joins the hall of fame of the largest known primes. It has 576,342 digits.
   
   projects:
     title: "Featured Projects"
